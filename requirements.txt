@@ -1,0 +1,10 @@
+ 
+# This file lists all dependencies required to run the project
+fastapi        # Web framework for building APIs
+uvicorn        # ASGI server for running FastAPI
+sqlalchemy     # ORM for handling database operations
+pydantic       # Data validation and settings management
+alembic        # Database migration tool for SQLAlchemy
+
+
+

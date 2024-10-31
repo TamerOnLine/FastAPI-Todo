@@ -1,0 +1,20 @@
+ 
+
+# Ignore log files
+*.log
+.*
+
+# Ignore node_modules folder
+/node_modules/
+
+# Ignore secret files
+secrets.txt
+
+# Ignore all hidden files (starting with .)
+.git/
+.gitignore
+
+# Ignore temporary files
+temp_*
+
+c*.ipynb
